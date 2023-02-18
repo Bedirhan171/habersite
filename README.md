@@ -50,7 +50,7 @@ mysql -u username -h hostname -p
 ```
 
 **• -u parametresi ile kullanıcı adı belirtilir. <br>
-• -h parametresi ile MySQL sunucusunun bulunduğu bilgisayarın adresi belirtilir.Yerel bilgisayarda çalışılıyor ise kullanılmayabilir.
+• -h parametresi ile MySQL sunucusunun bulunduğu bilgisayarın adresi belirtilir.Yerel bilgisayarda çalışılıyor ise kullanılmayabilir.<br>
 • -p parametresi ile MySQL sunucusuna bağlanmak için kullanılan şifre belirtilir.<br>**
 
 
