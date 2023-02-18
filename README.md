@@ -53,5 +53,5 @@ mysql -u username -h hostname -p
 • -h parametresi ile MySQL sunucusunun bulunduğu bilgisayarın adresi belirtilir.Yerel bilgisayarda çalışılıyor ise kullanılmayabilir.<br>
 • -p parametresi ile MySQL sunucusuna bağlanmak için kullanılan şifre belirtilir.<br>**
 
-
+**Yukarıda verdiğim sql kodlarını komut satırındada kullanarak veritabanını kurabilirsiniz fakat ben PhpMyAdmin kullanmanızı öneririm.**
 
